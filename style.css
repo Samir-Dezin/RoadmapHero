@@ -1,0 +1,65 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Didact Gothic", Seoge UI, sans-serif !important;
+  font-weight: 900 !important;
+  font-style: normal;
+}
+#logo {
+  width: 10rem;
+}
+.one {
+  background-color: #e52e2d;
+  background-size: cover;
+}
+.logo_text {
+  font-weight: 900;
+}
+
+.call_button {
+  width: 13rem !important;
+  font-size: 1.4rem !important;
+}
+.call_button:hover {
+  background-color: #e52e2d !important;
+  color: white !important;
+}
+#center_button {
+  margin-left: 37% !important;
+  /* width: 10rem !important; */
+  font-size: 1.6rem;
+  /* border-radius: 10%; */
+}
+.hover_red:hover {
+  background-color: white !important;
+  color: #e52e2d !important;
+}
+.three {
+  background-color: #f3c43e;
+}
+.icon {
+  width: 6rem !important;
+  background-color: white !important;
+  /* padding: 1rem; */
+  /* margin: 0 5rem !important; */
+  border: 3px solid white;
+  border-radius: 50%;
+}
+.four {
+  background-color: #e52e2d;
+  background-size: cover;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.teammates_img {
+  width: 30rem !important;
+  border-radius: 50%;
+}
+
+.quotes {
+  margin-top: 25%;
+  fill: #f3c43e !important;
+  width: 8rem !important;
+  /* flex-direction: column; */
+}
